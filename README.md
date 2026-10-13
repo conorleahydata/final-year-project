@@ -42,4 +42,4 @@ Other findings (Apple and Litecoin):
 Walk-forward backtesting, significance testing, comparison against simple baselines, and combining the FFT with other models.
 
 ## Files
-- `final_year_project_master.ipynb`: code and plots
+- `fft-stock-prediction.ipynb`: code and plots
